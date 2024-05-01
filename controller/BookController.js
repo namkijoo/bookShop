@@ -38,6 +38,10 @@ const allBooks = (req,res)=>{
             }
             console.log(results);
             if(results.length){
+                results.map(function(results){
+                    results.pubDate = result.pub_date;
+                    delete result.pub_date;
+                });
                 allBooksRes.books=results;
             }else{
                 return res.status(StatusCodes.NOT_FOUND).end()
