@@ -9,4 +9,5 @@
 </div>
 
 <div align=center><h1>ERD</h1></div>
-![image](https://github.com/namkijoo/bookShop/assets/96736526/a480d3b1-26ec-4882-8cc9-84baf6537c31)
+
+![image](https://github.com/namkijoo/bookShop/assets/96736526/a4c35027-39e0-4677-ac32-534ecc3ce0f4)
